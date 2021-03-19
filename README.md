@@ -11,4 +11,6 @@ Project with The Tech Academy to practice C# integrated with front end web devel
 
 ### CRUD functionality
 
-## Skills Aquired 
+## Skills Acquired 
+
+Working on this project helped me gain more comfortablity with Azure Devops as an agile platform and using a new method of version control. This project was the first collaborative project I was on using Visual Studio as the IDE. Getting familiar with the git set up on Visual Studio was easy to adapt to and another notch on the belt with version control knowledge. The project presented challenges with design and functionality specifics while understnding the architectural pattern. It was refreshing to work on both the front end design and the back end functionality together because I was able to impliment HTML, CSS, JavaScript, and their frameworks with another OOP language, C#. Working on projects like this only help me grow as a developer and prepare me better for coding adversity. 
